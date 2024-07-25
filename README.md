@@ -1,12 +1,8 @@
-# Extreme Parkour with Legged Robots #
+# Emergent Locomotion skills #
 <p align="center">
-<img src="./images/teaser.jpeg" width="80%"/>
 </p>
 
-**Authors**: [Xuxin Cheng*](https://chengxuxin.github.io/), [Kexin Shi*](https://tenhearts.github.io/), [Ananye Agarwal](https://anag.me/), [Deepak Pathak](https://www.cs.cmu.edu/~dpathak/)  
-**Website**: https://extreme-parkour.github.io  
-**Paper**: https://arxiv.org/abs/2309.14341  
-**Tweet Summary**: https://twitter.com/pathak2206/status/1706696237703901439
+**Authors**: Lingxiao Guo, Yue Gao
 
 ### Installation ###
 ```bash
