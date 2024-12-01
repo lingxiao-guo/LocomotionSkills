@@ -40,7 +40,6 @@ python train.py  --resume --resumeid new  --use_camera
 ```
 
 4. Play base gait policy:
-### the resume policy is model_4800.pt
 ```bash
 python play.py 
 ```
@@ -51,7 +50,6 @@ python play.py --parkour_terrains
 ```
 
 6. Play distill policy:
-### the resume policy is model_5500.pt
 ```bash
 python play.py --exptid new  --use_camera
 ```
